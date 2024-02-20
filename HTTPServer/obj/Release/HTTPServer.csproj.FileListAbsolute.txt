@@ -1,0 +1,11 @@
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\bin\Release\HTTPServer.exe.config
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\bin\Release\HTTPServer.exe
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\bin\Release\HTTPServer.pdb
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Release\HTTPServer.Form1.resources
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Release\HTTPServer.Properties.Resources.resources
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Release\HTTPServer.csproj.GenerateResource.cache
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Release\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Release\HTTPServer.exe
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Release\HTTPServer.pdb
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Release\HTTPServer.csproj.AssemblyReference.cache
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Release\HTTPServer.csproj.SuggestedBindingRedirects.cache

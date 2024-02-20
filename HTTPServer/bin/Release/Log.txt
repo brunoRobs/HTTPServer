@@ -1,0 +1,2 @@
+20/07/2023 21:11:32 - Requisição respondida
+ [::1]:80: ?ANI=40003&DNIS=48001&UUI=MIDIAVOX

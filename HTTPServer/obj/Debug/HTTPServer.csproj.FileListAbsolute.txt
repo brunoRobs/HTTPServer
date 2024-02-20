@@ -1,0 +1,10 @@
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Debug\HTTPServer.Form1.resources
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Debug\HTTPServer.Properties.Resources.resources
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csproj.GenerateResource.cache
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Debug\HTTPServer.exe
+C:\Midiavox\Projetos\Estágio3\HTTPServer\HTTPServer\obj\Debug\HTTPServer.pdb
